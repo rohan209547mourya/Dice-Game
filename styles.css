@@ -1,0 +1,39 @@
+html {
+    background-color: rgb(4, 47, 49);
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+}
+
+.dice {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+
+
+h2 {
+    color: cyan;
+    font-size: 50px;
+    text-align: center;
+}
+
